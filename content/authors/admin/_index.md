@@ -40,18 +40,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/RockCWRU
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -69,4 +61,4 @@ highlight_name: true
 
 Rock Lim is a graduate student in the Department of Psychological Sciences at Case Western Reserve University. His interests center around how evolution and metabolic factors affect organisms' behavior. His work involves development of computerized tasks based on biological behavioral models for use with human participants and research on the decision-making behavior of *Hyla versicolor* grey tree frogs.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/RockCWRU/RL-academic-resume-site/raw/master/Rock%20Lim%20Curriculum%20Vitae.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
