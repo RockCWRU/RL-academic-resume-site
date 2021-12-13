@@ -6,7 +6,7 @@ title: Rock Lim
 superuser: true
 
 # Role/position/tagline
-role: Graduate student in psychological sciences
+role: Graduate student, Psychological Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
