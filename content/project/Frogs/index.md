@@ -1,22 +1,25 @@
 ---
-title: Social competition in Hyla versicolor
-summary: Researching why male grey tree frogs choose to stay with groups or risk going alone.
+title: Social responsiveness and competition among male Hyla versicolor
+summary: Male tree frogs must perform mating calls near water, meaning competing males must congregate during mating season. This project presents male frogs with a binary choice between a large chorus of males, which will have many competitors but is safer, and a sparser group of males, which means less competitors but more direct competition and more exposure to predators. This study will provide insight into the tradeoffs which must be made by individuals in species for which gathering with others provides both benefits and disadvantages, and the traits of individuals which choose the group or choose to go it alone.
 tags:
 - frogs
+- socialization
+- competition
+- cognitive biology
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
 
 #image:
-  #caption: 
+  #caption:
   #focal_point: Smart
 
 #links:
- #icon: 
-  #icon_pack: 
-  #name: 
-  #url: 
+ #icon:
+  #icon_pack:
+  #name:
+  #url:
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
